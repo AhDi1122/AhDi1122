@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhDi1122
 - 👀 I’m interested in deploying applications on kubernetes.
-- 🌱 I’m currently learning k8s
-- 💞️ I’m looking to collaborate on k8s
+- 🌱 I’m currently learning devops tools
+- 💞️ I’m looking to collaborate on devops
 - 📫 How to reach me via my gmail:::: asifmehmood0315@gmail.com
 
 <!---
